@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card1 {
+  background-image: url(https://cdn.pixabay.com/photo/2015/03/22/23/07/bora-bora-685303_960_720.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+
+.card2 {
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+
+.button {
+  width: 125px;
+  height: 25px;
+  border-radius: 25px;
+  background-color: #67a1a0;
+  color: white;
+  border-width: 0px;
+}
+
+.paragraph {
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.heading {
+  font-family: "Monoton";
+  font-weight: normal;
+  color: #518994;
+  text-decoration: underline;
+}
+
+.backgroundimage {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+.heading2-underline {
+  text-decoration: underline;
+}
+
+.Heading1 {
+  font-family: "Roboto";
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  padding: 8px;
+  font-size: 25px;
+}
+
+.card {
+  background-color: white;
+  padding: 16px;
+  margin: 15px;
+  border-radius: 8px;
+}
+
+.tajimg {
+  width: 80px;
+  height: 100px;
+}
+
+.card-heading {
+  font-family: "Roboto";
+  font-weight: bold;
+  color: #0f0e46;
+  font-size: 23px;
+}
+
+.card-para {
+  font-family: "Roboto";
+  color: #6c6b70;
+  font-size: 13px;
+}
+
+.bg-image {
+  background-image: url("https://t4.ftcdn.net/jpg/05/70/67/33/240_F_570673386_OouDbCO1oOyIb2QqebzIgmcqxpz22Kmg.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.bg-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.card-1 {
+  background-color: white;
+  /* padding:8px; */
+}
+
+.card-heading {
+  color: black;
+}
+
+.card-para {
+  color: #7d6f6e;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.margin-1 {
+  margin: 20px;
+}
